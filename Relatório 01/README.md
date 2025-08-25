@@ -1,4 +1,4 @@
-# 📘 Paradigma Imperativo – Exercícios em BASIC 
+# 📘 Paradigma Imperativo – BASIC 
 
 ### 🔑 Características principais:
 - Uso de **variáveis** (estados mutáveis)  
