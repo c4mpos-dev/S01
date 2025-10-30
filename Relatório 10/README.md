@@ -1,4 +1,4 @@
-# 🖥️ Paradigma Orientado a Objetos - JavaScript (ES6+)
+# 🖥️ Paradigma Orientado a Objetos - JavaScript
 
 ### 🔑 Características principais:
 - Declaração de **classes** com `class NomeDaClasse` e o `constructor`.
